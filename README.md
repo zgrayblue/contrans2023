@@ -6,12 +6,12 @@ Compiled as a class project for DS 6600: Data Engineering 1 in the Ph.D. program
 
 # Raw data documentation
 
-  * [Congressional Ideology Data] (https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/congress_ideology.html)
+  * [Congressional Ideology Data](https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/congress_ideology.html)
 
-  * [Congressional Votes Data] (https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/congress_votes.html)
+  * [Congressional Votes Data](https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/congress_votes.html)
 
-  * [Individual Member's Votes] (https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/election_data.html)
+  * [Individual Member's Votes](https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/election_data.html)
 
-  * [House of Reps Elections Data] (https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/election_house_data.html)
+  * [House of Reps Elections Data](https://htmlpreview.github.io/?https://github.com/zgrayblue/contrans2023/blob/main/election_house_data.html)
 
 

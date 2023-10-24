@@ -4,3 +4,5 @@ jupyterlab==4.0.5
 requests==2.31.0
 ydata-profiling==4.5.1
 beautifulsoup4==4.12.1
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.22

@@ -1,6 +1,6 @@
 services:
   jupyterlab: 
-    image: jkropko/contrans2023
+    image: zgrayblue/contrans2023
     env_file:
       - .env
     ports: 

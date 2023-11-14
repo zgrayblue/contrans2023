@@ -5,6 +5,7 @@ services:
       - .env
     ports: 
       - "8889:8888"
+      - "8050:8050"
     volumes: 
       - ./:/contrans2023
       - ./settings.txt:/root/.jupyter/lab/user-settings/@jupyterlab/notebook-extension/tracker.jupyterlab-settings
